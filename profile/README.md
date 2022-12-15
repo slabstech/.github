@@ -2,11 +2,14 @@
 
 # S Labs Solutions
 
-Building Perpetual Robotics Platform
+Perpetual Robotics Society , 
+* We are building <a href="https://mangala.earth">ಭೂಮಿ </a> to solve <a href="https://www.un.org/sustainabledevelopment/hunger/">UN SDG goal 2  </a>, with  food security in Space,  <a href="https://2022.spaceappschallenge.org/locations/magdeburg/teams"> NASA Space Apps 2022 Global Nominee</a>
+
 
 ### Projects
 
-| Project | Website | Code | Description | Status |
-|---|---|---|---|---|
-| [ಭೂಮಿ : Bhoomi](https://github.com/slabstech/bhoomi)|  [web](https://mangala.earth) |  [Source](https://github.com/slabstech/bhoomi) | Autonomous Habitat System | Current |
-| [Revive ](https://github.com/slabstech/revive)|  [web](https://slabstech.com/revive/) |  [Source](https://github.com/slabstech/revive) | Robotic Swarm Platform | Current |
+| Project | Code / Description | Status |
+|---|---|---|
+| [ಭೂಮಿ : Bhoomi](https://github.com/slabstech/bhoomi)| [Autonomous Greenhouse](https://github.com/slabstech/bhoomi) | In Progress |
+| [Revive ](https://github.com/slabstech/revive)|   [Swarm Platform](https://github.com/slabstech/revive) |  In Progress |
+| [ಸಮೃದ್ಧಿ / Samruddhi ](https://github.com/slabstech/revive)|  [Free Education](https://github.com/slabstech/samruddhi) |  In Progress |
