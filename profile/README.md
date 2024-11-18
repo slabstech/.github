@@ -7,4 +7,5 @@
 * Strategy
   * Open source Community collaboration with Cutting-edge methods
 * Priorities
-  * Project [Bhoomi](https://mangala.earth)
+  * Project [Sanjeevini](https://sanjeevini.me)  - AI Healthcare App
+  * Project [Gaganyatri](https://gaganyatri.in) - Demonstrator for LLM technology
