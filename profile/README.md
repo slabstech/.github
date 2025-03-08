@@ -8,5 +8,4 @@
   * Open source Community collaboration with Cutting-edge methods
 * Priorities
   * Project [Sanjeevini](https://sanjeevini.me)  - AI Healthcare App
-  * Project [Gaganyatri](https://gaganyatri.in) - Demonstrator for LLM technology
-  * Project [Dhwani](https://slabstech.com/dhwani/) - Immersive AudioBook Generator for Indic Languages
+  * Project [Dhwani](https://slabstech.com/dhwani/) - Voice AI for Kannada Indian/ Languages 
