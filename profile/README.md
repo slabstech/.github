@@ -8,4 +8,4 @@
   * Open source Community collaboration with Cutting-edge methods
 * Priorities
   * Project [Sanjeevini](https://sanjeevini.me)  - AI Healthcare App
-  * Project [Dhwani](https://slabstech.com/dhwani/) - Voice AI for Kannada Indian/ Languages 
+  * Project [Dwani](https://slabstech.com/dwani/) - Voice Assistant for India 
